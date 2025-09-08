@@ -1,0 +1,11 @@
+fastapi>=0.111.0
+uvicorn[standard]>=0.30.0
+pydantic>=2.7.0
+pydantic-settings>=2.2.1
+langgraph>=0.2.23
+langchain>=0.2.15
+jinja2>=3.1.4
+langchain-mcp-adapters
+langchain-naver
+httpx>=0.27.0
+python-dotenv>=1.0.1
