@@ -1,0 +1,14 @@
+{
+  "servers": {
+    "yahoo": {
+    "command": "uv",
+      "args": [
+        "--directory",
+        "/Users/hyuno/dev/mcp/yahoo-finance-mcp",
+        "run",
+        "server.py"
+      ],
+      "transport": "stdio"
+    }
+  }
+}

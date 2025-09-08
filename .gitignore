@@ -1,6 +1,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/nextjs,python,pycharm+all
 # Edit at https://www.toptal.com/developers/gitignore?templates=nextjs,python,pycharm+all
 
+.idea
+
 ./agent/.idea
 ./agent/.venv
 
